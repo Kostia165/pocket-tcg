@@ -1,0 +1,15 @@
+# Godot cache and imported assets (regenerated on import)
+.godot/
+
+# Android build template (installed by Godot: Project > Install Android Build Template)
+android/
+
+# Build output
+build/
+*.apk
+*.aab
+*.idsig
+
+# OS / editor files
+.DS_Store
+Thumbs.db
